@@ -1,0 +1,11 @@
+D:\Visaul Studio\hafıza\hafıza\bin\Debug\hafıza.exe.config
+D:\Visaul Studio\hafıza\hafıza\bin\Debug\hafıza.exe
+D:\Visaul Studio\hafıza\hafıza\bin\Debug\hafıza.pdb
+D:\Visaul Studio\hafıza\hafıza\obj\Debug\hafıza.csprojAssemblyReference.cache
+D:\Visaul Studio\hafıza\hafıza\obj\Debug\hafıza.Form1.resources
+D:\Visaul Studio\hafıza\hafıza\obj\Debug\hafıza.Properties.Resources.resources
+D:\Visaul Studio\hafıza\hafıza\obj\Debug\hafıza.csproj.GenerateResource.cache
+D:\Visaul Studio\hafıza\hafıza\obj\Debug\hafıza.csproj.CoreCompileInputs.cache
+D:\Visaul Studio\hafıza\hafıza\obj\Debug\hafıza.exe
+D:\Visaul Studio\hafıza\hafıza\obj\Debug\hafıza.pdb
+D:\Visaul Studio\hafıza\hafıza\obj\Debug\hafıza.Form2.resources
